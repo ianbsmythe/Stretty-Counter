@@ -8,8 +8,6 @@ Stretty Counter is a simple web application that counts increments and saves pre
 - Features
 - Installation
 - Usage
-- Contributing
-- License
 
 ## Overview
 Stretty Counter is a basic web app designed to demonstrate how JavaScript can interact with the DOM (Document Object Model) to create a dynamic and interactive user experience. The counter allows users to keep track of increments, and also stores and displays previous count entries.
@@ -46,3 +44,9 @@ open index.html
 ```
 
 **There are no dependencies required for this project, as it's built entirely with vanilla HTML, CSS, and JavaScript.**
+
+## Usage
+Open the app in a web browser.
+Click the INCREMENT button to increase the counter.
+Click SAVE to log the current count. The saved counts will be displayed below the buttons under "Previous entries."
+Repeat as necessary!
