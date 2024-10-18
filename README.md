@@ -14,6 +14,8 @@ Stretty Counter is a basic web app designed to demonstrate how JavaScript can in
 
 The background image of the app is of the Stretford Metrolink station, adding a local touch to the application. The app is styled with custom CSS for a sleek, dark theme and is fully responsive, making it accessible on both desktop and mobile devices.
 
+[Stretford-Counter](https://stretford-metrolink-counter.netlify.app/) 
+
 ## Features
 Increment Button: Click the "INCREMENT" button to increase the counter.
 Save Button: Click the "SAVE" button to log the current count and reset the counter to zero.
